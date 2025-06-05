@@ -1,1 +1,3 @@
-# Power-BI-Project
+# HR Analytics Dashboard
+## Project Objective
+
