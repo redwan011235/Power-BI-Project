@@ -29,6 +29,17 @@ Multiple visual elements such as bar charts, KPI indicators, tables, and pie cha
 - Which business travel category has the most employees?
   ## Dashboard
   ![Screenshot](https://github.com/redwan011235/Power-BI-Project/blob/main/Screenshot%20of%20HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard%20%201.jpg),![Screenshot](https://github.com/redwan011235/Power-BI-Project/blob/main/Screenshot%20of%20HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard%20%202.jpg),![Screenshot](https://github.com/redwan011235/Power-BI-Project/blob/main/Screenshot%20of%20HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard%20%203.jpg)
+## Projecgt Insight
+- 📊 HR Analytics Dataset contains detailed employee information, including demographics, job satisfaction, work-life balance, and attrition data for 1,470 employees.
+- 📁 Promotion Dataset highlights 72 employees marked as "Due for Promotion" (1 indicates eligible).
+- 🧾 Retrenchment Dataset flags employees at risk of being retrenched, where 1 indicates a potential retrenchment candidate.
+- 🧹 Initial data preprocessing was required to correct encoding and split tab-separated fields in the HR dataset.
+- 🔄 All datasets were merged on Employee Name to provide a unified view of employee performance, retention, and promotion readiness.
+- 📈 Exploratory Data Analysis (EDA) revealed patterns in attrition, promotion readiness, and retrenchment risk based on factors such as age, job satisfaction, education level, and distance from home.
+- 👥 Employees marked for promotion showed higher scores in performance and job involvement on average.
+- ⚠️ Employees at risk of retrenchment often had lower job satisfaction, more frequent job changes, and fewer years at the company.
+- 🧠 The project builds a foundation for predictive modeling, such as identifying future attrition or promotion candidates using classification algorithms.
+- 📦 The project demonstrates real-world HR decision-making using data-driven insights, useful for talent management and workforce planning.
 
 
 
