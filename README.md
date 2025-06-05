@@ -7,6 +7,17 @@ The primary goal of the HR analytics dashboard is to provide data-driven insight
 - Power BI
 - Power Query
 - Dax Query
+## Highlights
+- Provides a clear overview of total headcount and employee distribution.
+- Shows demographic breakdowns by age, gender, and experience.
+- Tracks attrition trends with reasons for employee exits.
+- Analyzes recruitment metrics like new hires and time-to-fill.
+- Highlights performance and tenure patterns.
+- Includes interactive filters for deep data exploration.
+- Displays key HR KPIs such as turnover and retention rates.
+- Features clean, user-friendly visual design.
+- Supports automated data refresh for real-time insights.
+- Enables secure sharing with role-based access.
   
 
 
