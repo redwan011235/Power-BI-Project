@@ -7,17 +7,16 @@ The primary goal of the HR analytics dashboard is to provide data-driven insight
 - Power BI
 - Power Query
 - Dax Query
-## Highlights
-- Provides a clear overview of total headcount and employee distribution.
-- Shows demographic breakdowns by age, gender, and experience.
-- Tracks attrition trends with reasons for employee exits.
-- Analyzes recruitment metrics like new hires and time-to-fill.
-- Highlights performance and tenure patterns.
-- Includes interactive filters for deep data exploration.
-- Displays key HR KPIs such as turnover and retention rates.
-- Features clean, user-friendly visual design.
-- Supports automated data refresh for real-time insights.
-- Enables secure sharing with role-based access.
-  
+## Project Workflow
+- Data Import & Preparation:
+The raw .csv file was imported into Power BI and loaded into the Power Query Editor for preliminary data transformation and structuring.
+- Data Cleaning & Formatting:
+Unnecessary columns, duplicate entries, and errors were removed. Column values were standardized, renamed appropriately, and data types were accurately assigned using the auto-detect feature in Power Query.
+- Data Transformation & Calculation:
+A new column named "AttritionCount" was created using conditional logic: If Attrition = "Yes", then 1; otherwise, 0. This was used to build KPIs and visualizations. A DAX measure for Attrition Rate was also created using:
+Attrition Rate = SUM([AttritionCount]) / SUM([EmployeeCount])
+to represent the rate as a percentage.
+- Data Visualization & Insight Generation:
+Multiple visual elements such as bar charts, KPI indicators, tables, and pie charts were developed to explore key HR metrics. These visuals provide a clear, interactive, and insightful representation of the data for better decision-making.
 
 
