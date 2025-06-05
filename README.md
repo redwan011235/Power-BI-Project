@@ -27,6 +27,8 @@ Multiple visual elements such as bar charts, KPI indicators, tables, and pie cha
 - How is the workforce distributed by gender?
 - Which education field has the largest representation among employees?
 - Which business travel category has the most employees?
+  ## Dashboard
+  ![Screenshot](https://github.com/redwan011235/Power-BI-Project/tree/main/Screenshot%20of%20HR%20Analytics%20Dashboard))
 
 
 
