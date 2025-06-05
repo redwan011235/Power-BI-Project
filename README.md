@@ -28,11 +28,7 @@ Multiple visual elements such as bar charts, KPI indicators, tables, and pie cha
 - Which education field has the largest representation among employees?
 - Which business travel category has the most employees?
   ## Dashboard
-  ![Screenshot](https://github.com/redwan011235/Power-BI-Project/blob/main/Screenshot%20of%20HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard%20%201.jpg)
-
-  ![Screenshot](https://github.com/redwan011235/Power-BI-Project/blob/main/Screenshot%20of%20HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard%20%202.jpg)
-
-  ![Screenshot](https://github.com/redwan011235/Power-BI-Project/blob/main/Screenshot%20of%20HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard%20%203.jpg)
+  ![Screenshot](https://github.com/redwan011235/Power-BI-Project/blob/main/Screenshot%20of%20HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard%20%201.jpg),![Screenshot](https://github.com/redwan011235/Power-BI-Project/blob/main/Screenshot%20of%20HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard%20%202.jpg),![Screenshot](https://github.com/redwan011235/Power-BI-Project/blob/main/Screenshot%20of%20HR%20Analytics%20Dashboard/HR%20Analytics%20Dashboard%20%203.jpg)
 
 
 
