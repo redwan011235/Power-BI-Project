@@ -18,5 +18,18 @@ Attrition Rate = SUM([AttritionCount]) / SUM([EmployeeCount])
 to represent the rate as a percentage.
 - Data Visualization & Insight Generation:
 Multiple visual elements such as bar charts, KPI indicators, tables, and pie charts were developed to explore key HR metrics. These visuals provide a clear, interactive, and insightful representation of the data for better decision-making.
+## Analytical Focus Areas
+- What is the total number of employees?
+- What are the average age and average salary of employees?
+- How many men and women have experienced attrition?
+- What is the average tenure of employees at the company?
+- Which department has the highest number of employees?
+- How is the workforce distributed by gender?
+- Which education field has the largest representation among employees?
+- Which business travel category has the most employees?
+
+
+
+
 
 
