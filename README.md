@@ -1,1 +1,2 @@
-# Power-BI-Project
+# E-Commerce Sales Analysis Dashboard
+## Project Objective
