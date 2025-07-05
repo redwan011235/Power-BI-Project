@@ -46,4 +46,6 @@ To analyze and visualize key performance indicators of an e-commerce business us
 - Evaluated average shipping time to detect delivery inefficiencies.
 
 - Used DAX and Power BI to transform raw data into clear, actionable insights.
+  ## Conclusion
+This project allowed me to apply real-world data analysis techniques using Power BI. By building a structured data model, writing DAX measures, and designing interactive dashboards, I was able to turn raw e-commerce data into meaningful business insights. The process strengthened my skills in data visualization, KPI tracking, and storytelling with data. I look forward to applying these skills in more complex, real-world analytics scenarios.
 
