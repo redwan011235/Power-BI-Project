@@ -29,7 +29,7 @@ To analyze and visualize key performance indicators of an e-commerce business us
   ## 📸 Sample Screenshots
 
 ### 📊 Executive Dashboard
-![Executive Dashboard](https://raw.githubusercontent.com/redwan011235/Power-BI-Project/main/Screenshots/executive_dashboard.png)
+![Executive Dashboard](https://[raw.githubusercontent.com/redwan011235/Power-BI-Project/main/Screenshots/executive_dashboard.png)
 
 ### 🔄 Return Analysis
 ![Return Analysis](https://raw.githubusercontent.com/redwan011235/Power-BI-Project/main/Screenshots/return_analysis.png)
