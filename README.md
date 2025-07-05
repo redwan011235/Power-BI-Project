@@ -34,4 +34,10 @@ To analyze and visualize key performance indicators of an e-commerce business us
  ![Screenshot](https://github.com/redwan011235/Power-BI-Project/blob/main/Screenshots/Regional%20Order%20Page.jpeg)
  ### 📦 Sales Page
 ![Screenshot](https://github.com/redwan011235/Power-BI-Project/blob/main/Screenshots/Sales%20Page.jpeg)
-                                                                                                                                         
+ ## Project Insight
+-Uncovered key revenue and profit trends across product categories and regions.
+-Tracked order volume and revenue over time to identify seasonal patterns.
+-Analyzed product return data to understand its impact on total profit.
+-Mapped sales and returns geographically to highlight high-performing regions.
+-Evaluated average shipping time to detect delivery inefficiencies.
+-Used DAX and Power BI to transform raw data into clear, actionable insights.
