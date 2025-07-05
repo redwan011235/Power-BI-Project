@@ -17,4 +17,11 @@ To analyze and visualize key performance indicators of an e-commerce business us
 - Used visual elements like bar charts, line graphs, and maps to make insights clear.
 - Added a summary page for executives and detailed reports for deeper analysis.
   ## Process
-                                                                                                                                                      
+- Imported and cleaned the e-commerce datasets using Power Query Editor.
+- Built a star schema by creating relationships between fact and dimension tables.
+- Created a custom date table to support time-based analysis.
+- Developed DAX measures and calculated columns for KPIs.
+- Tracked metrics like revenue, profit, orders, returns, and shipping days.
+- Designed interactive dashboards with slicers, tooltips, and drill-down features.
+- Organized visuals into clear pages: Executive Summary, Sales Overview, and Return Analysis.
+- Finalized the layout with clean formatting and consistent visual styling.                                                                                                                                                   
