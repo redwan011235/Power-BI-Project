@@ -3,7 +3,7 @@
 To analyze and visualize key performance indicators of an e-commerce business using Power BI. This includes extracting insights from sales, returns, customer, and product data to help stakeholders understand business performance, customer behavior, and operational trends. The objective is to present data in an interactive and insightful dashboard to support data-driven decision-making.
 ## Datset Used
 - [Datasets](https://github.com/redwan011235/Power-BI-Project/tree/main/Datasets)
-## Project requirements
+ ## Project requirements
 - I analyzed e-commerce data including sales, returns, customers, and products using Power BI.
 - Built a structured data model with proper relationships (star schema) to support analysis.
 - Created calculated columns and DAX measures to track key metrics like:
@@ -24,4 +24,16 @@ To analyze and visualize key performance indicators of an e-commerce business us
 - Tracked metrics like revenue, profit, orders, returns, and shipping days.
 - Designed interactive dashboards with slicers, tooltips, and drill-down features.
 - Organized visuals into clear pages: Executive Summary, Sales Overview, and Return Analysis.
-- Finalized the layout with clean formatting and consistent visual styling.                                                                                                                                                   
+- Finalized the layout with clean formatting and consistent visual styling.
+  ## Dashboard
+  ## 📸 Sample Screenshots
+
+### 📊 Executive Dashboard
+![Executive Dashboard](https://raw.githubusercontent.com/redwan011235/Power-BI-Project/main/Screenshots/executive_dashboard.png)
+
+### 🔄 Return Analysis
+![Return Analysis](https://raw.githubusercontent.com/redwan011235/Power-BI-Project/main/Screenshots/return_analysis.png)
+
+### 📦 Sales Overview
+![Sales Overview](https://raw.githubusercontent.com/redwan011235/Power-BI-Project/main/Screenshots/sales_overview.png)
+                                                                                                                                         
