@@ -26,13 +26,11 @@ To analyze and visualize key performance indicators of an e-commerce business us
 - Organized visuals into clear pages: Executive Summary, Sales Overview, and Return Analysis.
 - Finalized the layout with clean formatting and consistent visual styling.
   ## Dashboard
-  ## 📸 Sample Screenshots
+  ### 🏠 Homepage
+  ![Screenshot](https://github.com/redwan011235/Power-BI-Project/blob/main/Screenshots/Homepage.jpeg)
+### 🧑‍💼 Executive Page 
+ ![Screenshot](https://github.com/redwan011235/Power-BI-Project/blob/main/Screenshots/Executive%20Page.jpeg)
+ 
+ 
 
-### 📊 Executive Dashboard
-![Screenshot](https://github.com/redwan011235/Power-BI-Project/blob/main/Screenshots/Executive%20Page.jpeg)
-### 🔄 Return Analysis
-![Return Analysis](https://raw.githubusercontent.com/redwan011235/Power-BI-Project/main/Screenshots/return_analysis.png)
-
-### 📦 Sales Overview
-![Sales Overview](https://raw.githubusercontent.com/redwan011235/Power-BI-Project/main/Screenshots/sales_overview.png)
                                                                                                                                          
