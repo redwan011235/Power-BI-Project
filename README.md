@@ -30,7 +30,8 @@ To analyze and visualize key performance indicators of an e-commerce business us
   ![Screenshot](https://github.com/redwan011235/Power-BI-Project/blob/main/Screenshots/Homepage.jpeg)
 ### 🧑‍💼 Executive Page 
  ![Screenshot](https://github.com/redwan011235/Power-BI-Project/blob/main/Screenshots/Executive%20Page.jpeg)
- 
- 
-
+ ### 🌍 Regional Order Page
+ ![Screenshot](https://github.com/redwan011235/Power-BI-Project/blob/main/Screenshots/Regional%20Order%20Page.jpeg)
+ ### 📦 Sales Page
+![Screenshot](https://github.com/redwan011235/Power-BI-Project/blob/main/Screenshots/Sales%20Page.jpeg)
                                                                                                                                          
