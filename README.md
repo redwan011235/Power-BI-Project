@@ -3,6 +3,7 @@
 To analyze and visualize key performance indicators of an e-commerce business using Power BI. This includes extracting insights from sales, returns, customer, and product data to help stakeholders understand business performance, customer behavior, and operational trends. The objective is to present data in an interactive and insightful dashboard to support data-driven decision-making.
 ## Datset Used
 - [Datasets](https://github.com/redwan011235/Power-BI-Project/tree/main/Datasets)
+
  ## Project requirements
 - I analyzed e-commerce data including sales, returns, customers, and products using Power BI.
 - Built a structured data model with proper relationships (star schema) to support analysis.
@@ -34,6 +35,7 @@ To analyze and visualize key performance indicators of an e-commerce business us
  ![Screenshot](https://github.com/redwan011235/Power-BI-Project/blob/main/Screenshots/Regional%20Order%20Page.jpeg)
  ### 📦 Sales Page
 ![Screenshot](https://github.com/redwan011235/Power-BI-Project/blob/main/Screenshots/Sales%20Page.jpeg)
+
  ## Project Insight
 - Uncovered key revenue and profit trends across product categories and regions.
 
